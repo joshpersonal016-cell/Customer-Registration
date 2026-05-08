@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\",
+  "WorkspaceRootPath": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C597C5D5-EF8D-454C-BD71-4AA4830541D3}|Customer.Registration.Test\\Customer.Registration.Test.csproj|c:\\users\\joaguilar\\onedrive - arch capital group\\desktop\\exam\\api\\customer.registration.api\\customer.registration.test\\services\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C597C5D5-EF8D-454C-BD71-4AA4830541D3}|Customer.Registration.Test\\Customer.Registration.Test.csproj|solutionrelative:customer.registration.test\\services\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC2CE554-1CB8-F87C-C9D7-50123DCA1056}|Customer.Registration.Application\\Customer.Registration.Application.csproj|c:\\users\\joshuaaguilar\\onedrive - retail software associates corp\\desktop\\new folder (4)\\customer-registration\\api\\customer.registration.api\\customer.registration.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2CE554-1CB8-F87C-C9D7-50123DCA1056}|Customer.Registration.Application\\Customer.Registration.Application.csproj|solutionrelative:customer.registration.application\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F147BC-2F94-4DA4-B36C-B718C2DD0222}|Customer.Registration.Application\\Customer.Registration.Application.csproj|c:\\users\\joaguilar\\onedrive - arch capital group\\desktop\\exam\\api\\customer.registration.api\\customer.registration.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F147BC-2F94-4DA4-B36C-B718C2DD0222}|Customer.Registration.Application\\Customer.Registration.Application.csproj|solutionrelative:customer.registration.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC2CE554-1CB8-F87C-C9D7-50123DCA1056}|Customer.Registration.Application\\Customer.Registration.Application.csproj|c:\\users\\joshuaaguilar\\onedrive - retail software associates corp\\desktop\\new folder (4)\\customer-registration\\api\\customer.registration.api\\customer.registration.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2CE554-1CB8-F87C-C9D7-50123DCA1056}|Customer.Registration.Application\\Customer.Registration.Application.csproj|solutionrelative:customer.registration.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15DB3F89-AE8C-4067-90ED-19C8BD605EB3}|Customer.Registration.API\\Customer.Registration.API.csproj|c:\\users\\joaguilar\\onedrive - arch capital group\\desktop\\exam\\api\\customer.registration.api\\customer.registration.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15DB3F89-AE8C-4067-90ED-19C8BD605EB3}|Customer.Registration.API\\Customer.Registration.API.csproj|solutionrelative:customer.registration.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5CEA570-A768-D5E6-BF13-8D86121EA739}|Customer.Registration.API\\Customer.Registration.API.csproj|c:\\users\\joshuaaguilar\\onedrive - retail software associates corp\\desktop\\new folder (4)\\customer-registration\\api\\customer.registration.api\\customer.registration.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CEA570-A768-D5E6-BF13-8D86121EA739}|Customer.Registration.API\\Customer.Registration.API.csproj|solutionrelative:customer.registration.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,51 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Test\\Services\\CustomerServiceTests.cs",
-              "RelativeDocumentMoniker": "Customer.Registration.Test\\Services\\CustomerServiceTests.cs",
-              "ToolTip": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Test\\Services\\CustomerServiceTests.cs",
-              "RelativeToolTip": "Customer.Registration.Test\\Services\\CustomerServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAOAAAAAAAAAA==",
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Application\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Customer.Registration.Application\\Dtos\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Application\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "Customer.Registration.Application\\Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T17:21:57.957Z",
+              "WhenOpened": "2026-05-08T07:13:08.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Application\\Services\\CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Application\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "Customer.Registration.Application\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Application\\Services\\CustomerService.cs",
               "RelativeToolTip": "Customer.Registration.Application\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T15:55:52.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T15:55:52.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.API\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.API\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Customer.Registration.API\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.API\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Customer.Registration.API\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T15:09:46.795Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-05-07T15:09:46.795Z"
             }
           ]
         }

@@ -13,3 +13,5 @@ C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Regis
 C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net10.0\Customer.Registration.Domain.pdb
 C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.csproj.AssemblyReference.cache
 C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.2D7BB551.Up2Date
+C:\Users\JoshuaAguilar\OneDrive - Retail Software Associates Corp\Desktop\New folder (4)\Customer-Registration\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.csproj.AssemblyReference.cache
+C:\Users\JoshuaAguilar\OneDrive - Retail Software Associates Corp\Desktop\New folder (4)\Customer-Registration\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.GeneratedMSBuildEditorConfig.editorconfig

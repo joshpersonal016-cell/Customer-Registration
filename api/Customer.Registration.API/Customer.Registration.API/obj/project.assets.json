@@ -3629,23 +3629,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joaguilar\\.nuget\\packages\\": {},
+    "C:\\Users\\JoshuaAguilar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.API\\Customer.Registration.API.csproj",
+      "projectUniqueName": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.API\\Customer.Registration.API.csproj",
       "projectName": "Customer.Registration.API",
-      "projectPath": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.API\\Customer.Registration.API.csproj",
-      "packagesPath": "C:\\Users\\joaguilar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.API\\obj\\",
+      "projectPath": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.API\\Customer.Registration.API.csproj",
+      "packagesPath": "C:\\Users\\JoshuaAguilar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\joaguilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JoshuaAguilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3658,13 +3658,14 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Application\\Customer.Registration.Application.csproj": {
-              "projectPath": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Application\\Customer.Registration.Application.csproj"
+            "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Application\\Customer.Registration.Application.csproj": {
+              "projectPath": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Application\\Customer.Registration.Application.csproj"
             },
-            "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Infrastructure\\Customer.Registration.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Infrastructure\\Customer.Registration.Infrastructure.csproj"
+            "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Infrastructure\\Customer.Registration.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\JoshuaAguilar\\OneDrive - Retail Software Associates Corp\\Desktop\\New folder (4)\\Customer-Registration\\api\\Customer.Registration.API\\Customer.Registration.Infrastructure\\Customer.Registration.Infrastructure.csproj"
             }
           }
         }
@@ -3679,10 +3680,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
@@ -3715,7 +3717,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

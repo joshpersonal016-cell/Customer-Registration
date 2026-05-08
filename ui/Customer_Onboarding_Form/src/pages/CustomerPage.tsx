@@ -6,7 +6,17 @@ import {
   getCustomersAsync,
   getCustomerByIdAsync,
 } from '../services/customerService'
-import type { Customer } from '../types/customer'
+import type { Customer, CreateCustomerDto } from '../types/customer'
+
+type CustomerForm = {
+  firstName: string
+  lastName: string
+  email: string
+  phoneNumber: string
+
+  signatureUrl: string | null   // display only
+  signatureBlob: Blob | null    // upload only
+}
 
 export default function CustomerPage() {
   const [customers, setCustomers] = useState<Customer[]>([])
@@ -15,11 +25,13 @@ export default function CustomerPage() {
   const [open, setOpen] = useState(false)
   const [mode, setMode] = useState<'add' | 'view'>('add')
 
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<CustomerForm>({
     firstName: '',
     lastName: '',
     email: '',
     phoneNumber: '',
+    signatureUrl: null,
+    signatureBlob: null,
   })
 
   useEffect(() => {
@@ -33,7 +45,7 @@ export default function CustomerPage() {
     setLoading(false)
   }
 
-  // ➕ ADD CUSTOMER
+  // ➕ ADD
   const openAdd = () => {
     setMode('add')
 
@@ -42,12 +54,14 @@ export default function CustomerPage() {
       lastName: '',
       email: '',
       phoneNumber: '',
+      signatureUrl: null,
+      signatureBlob: null,
     })
 
     setOpen(true)
   }
 
-  // 👁 VIEW CUSTOMER (CALL API)
+  // 👁 VIEW
   const openView = async (id: string) => {
     setMode('view')
     setOpen(true)
@@ -59,12 +73,22 @@ export default function CustomerPage() {
       lastName: data.lastName,
       email: data.email,
       phoneNumber: data.phoneNumber,
+      signatureUrl: data.signatureUrl || null,
+      signatureBlob: null,
     })
   }
 
-  // 💾 CREATE CUSTOMER
+  // 💾 CREATE (IMPORTANT FIX HERE)
   const createCustomer = async () => {
-    await createCustomerAsync(formData)
+    const dto: CreateCustomerDto = {
+      firstName: formData.firstName,
+      lastName: formData.lastName,
+      email: formData.email,
+      phoneNumber: formData.phoneNumber,
+      signature: formData.signatureBlob,
+    }
+
+    await createCustomerAsync(dto)
 
     setOpen(false)
     loadCustomers()

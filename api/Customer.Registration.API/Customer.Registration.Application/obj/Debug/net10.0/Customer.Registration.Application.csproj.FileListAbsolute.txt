@@ -1,0 +1,15 @@
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net10.0\Customer.Registration.Application.deps.json
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net10.0\Customer.Registration.Application.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net10.0\Customer.Registration.Application.pdb
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.AssemblyInfoInputs.cache
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.AssemblyInfo.cs
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.csproj.CoreCompileInputs.cache
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\refint\Customer.Registration.Application.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.pdb
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\ref\Customer.Registration.Application.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net10.0\Customer.Registration.Domain.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net10.0\Customer.Registration.Domain.pdb
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.Registration.Application.csproj.AssemblyReference.cache
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net10.0\Customer.2D7BB551.Up2Date

@@ -1,0 +1,11 @@
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\bin\Debug\net8.0\Customer.Registration.Domain.deps.json
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\bin\Debug\net8.0\Customer.Registration.Domain.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\bin\Debug\net8.0\Customer.Registration.Domain.pdb
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\Customer.Registration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\Customer.Registration.Domain.AssemblyInfoInputs.cache
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\Customer.Registration.Domain.AssemblyInfo.cs
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\Customer.Registration.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\Customer.Registration.Domain.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\refint\Customer.Registration.Domain.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\Customer.Registration.Domain.pdb
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Domain\obj\Debug\net8.0\ref\Customer.Registration.Domain.dll

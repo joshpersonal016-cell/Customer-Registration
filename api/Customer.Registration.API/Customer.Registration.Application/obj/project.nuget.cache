@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yVVHv47JlL8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaguilar\\OneDrive - Arch Capital Group\\Desktop\\Exam\\api\\Customer.Registration.API\\Customer.Registration.Application\\Customer.Registration.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaguilar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\joaguilar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.7\\microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

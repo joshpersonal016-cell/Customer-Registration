@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Customer.Registration.API/Customer.Registration.API.csproj" />
+  <Project Path="Customer.Registration.Application/Customer.Registration.Application.csproj" />
+  <Project Path="Customer.Registration.Domain/Customer.Registration.Domain.csproj" />
+  <Project Path="Customer.Registration.Infrastructure/Customer.Registration.Infrastructure.csproj" />
+  <Project Path="Customer.Registration.Test/Customer.Registration.Test.csproj" />
+</Solution>

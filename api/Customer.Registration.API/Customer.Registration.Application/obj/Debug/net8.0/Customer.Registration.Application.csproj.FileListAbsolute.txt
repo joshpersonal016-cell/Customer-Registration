@@ -1,0 +1,11 @@
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net8.0\Customer.Registration.Application.deps.json
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net8.0\Customer.Registration.Application.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\bin\Debug\net8.0\Customer.Registration.Application.pdb
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\Customer.Registration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\Customer.Registration.Application.AssemblyInfoInputs.cache
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\Customer.Registration.Application.AssemblyInfo.cs
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\Customer.Registration.Application.csproj.CoreCompileInputs.cache
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\Customer.Registration.Application.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\refint\Customer.Registration.Application.dll
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\Customer.Registration.Application.pdb
+C:\Users\joaguilar\OneDrive - Arch Capital Group\Desktop\Exam\api\Customer.Registration.API\Customer.Registration.Application\obj\Debug\net8.0\ref\Customer.Registration.Application.dll
